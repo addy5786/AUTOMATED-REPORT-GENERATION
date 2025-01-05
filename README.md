@@ -12,6 +12,12 @@
 
 **Mentor**: Neela Santhosh Kumar
 
+# OUTPUT OF THIS PROJECT
+
+# PROJECT:AUTOMATE REPORT GENERATION
+![OUTPUT](https://github.com/user-attachments/assets/12767853-d9eb-411c-bb05-354592e6a7e4)
+
+
 
 This code is a complete Python script that reads data from a CSV file, analyzes the data, and generates a PDF report summarizing the analysis.
 Here’s an overview of each part of the code:
